@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RodrigoPombo1/RodrigoPombo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rodrigo Pombo 👋
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=RodrigoPombo1&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=RodrigoPombo1&show_icons=true&theme=radical" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoPombo1&layout=compact&theme=radical" height="150">
+
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue)
+![Git](https://img.shields.io/badge/Version%20Control-Git-blue)
+![Linux Ubuntu](https://img.shields.io/badge/OS-Linux%20Ubuntu-blue)
+
+</div>
