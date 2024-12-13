@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rodrigo Pombo 👋
+# Hi, I'm Rodrigo Pombo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RodrigoPombo1&color=blue)
 
